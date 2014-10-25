@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--MultiWiiWinGUI, Version 2.3.5127.41688-->
+<!--MultiWii mission-->
+<!--MultiWii FC software revision 2.3dev-->
+<MISSION>
+    <VERSION value="2.3 pre8" />
+    <MISSIONITEM no="1" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7817300" lon="7,6567733" alt="25" />
+    <MISSIONITEM no="2" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7816022" lon="7,6565802" alt="25" />
+    <MISSIONITEM no="3" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7815906" lon="7,6563281" alt="25" />
+    <MISSIONITEM no="4" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7816758" lon="7,6558506" alt="25" />
+    <MISSIONITEM no="5" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7819547" lon="7,6557755" alt="25" />
+    <MISSIONITEM no="6" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7823226" lon="7,6558775" alt="25" />
+    <MISSIONITEM no="7" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7823575" lon="7,6561081" alt="25" />
+    <MISSIONITEM no="8" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7823149" lon="7,6563764" alt="25" />
+    <MISSIONITEM no="9" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7823071" lon="7,6566875" alt="25" />
+    <MISSIONITEM no="10" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7821406" lon="7,6569128" alt="25" />
+    <MISSIONITEM no="11" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7819198" lon="7,6572078" alt="25" />
+    <MISSIONITEM no="12" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7817920" lon="7,6572508" alt="25" />
+    <MISSIONITEM no="13" action="WAYPOINT" parameter1="0" parameter2="0" parameter3="0" lat="43,7817029" lon="7,6571918" alt="25" />
+</MISSION>
